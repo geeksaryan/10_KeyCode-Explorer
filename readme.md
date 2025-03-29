@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-You can view the live demo of the KeyCode Explorer [here](#).
+You can view the live demo of the KeyCode Explorer [here](https://key-code-explorer-sooty.vercel.app/).
 
 ---
 
