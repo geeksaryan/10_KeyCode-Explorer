@@ -12,11 +12,7 @@ You can view the live demo of the KeyCode Explorer [here](#).
 
 ## 📸 Screenshot
 
-1. **Initial Screen**  
-   ![Initial Screen](assets/screenshot1.png)
-
-2. **Key Pressed Example**  
-   ![Key Pressed Example](assets/screenshot2.png)
+   ![Initial Screen](assets/Screenshot.png)
 
 ---
 
